@@ -33,4 +33,5 @@ Españo (nativo)
 lectura %100 / %100 escritura 
 Ingles
 lectura %40 / escritura %20
+prueba numero 55 parta git
 TODA ESTE ARCHIVO SOLO ES A MODO DE EJEMPLO PARA VER QUE TAL FUNCIONA EL BENDITO GIT, CON EL QUE ESTOY TENIENDO MILES DE PROBLEMAS.
