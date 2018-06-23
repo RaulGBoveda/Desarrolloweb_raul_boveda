@@ -1,0 +1,36 @@
+Un poco de mi
+Nacido en la Ciudad de Formosa, Provincia de Formosa, Argentina, en el seno de una familia de clase trabajadora,
+siempre tuve el sueño de trinfar como toda persona, buscando con esfuerzo poder desempeñarme de forma profesional
+en las areas u oficios de aplicaciones tecnicas, siendo autodidacta y curioso en todo lo que me apasiona o intriga, 
+ya que siempre me llamo la atencion y me apasiono todo lo relacionado con la mecanica, electricidad,
+electronica, y mas adelante con la robotica y programacion basada a objetos; y como una cosa lleva a la otra, actualmente
+me encuentro en plena capacitacion para desarrollar paginas web's, con mucho esfuerzo, tratando de equiblar  la familia, el trabajo,
+y el estudio, siendo este ultimo un gran desafio personal, demostrando a mis dos hijos a diario con el esfuerzo puesto lo que 
+todo lo que me propongo, teniendo como premisa la frase de que "no hay mejor enseñanza que la que se da con el ejemplo.
+ Pudiendo resaltar entre mis habilidades personales, se podria decir que soy una persona tenaz, curiosa, autodidacta, 
+apasionada, ambisiosa y en constante competencia conmigo mismo para mejorar dia a dia, tanto en lo personal como en lo profesional.
+
+Se podria decir que poseo las siguientes cualidades:
+- Capacidad para trabajar en equipo.
+- Compromiso e implicación.
+- Responsabilidad.
+- Proactividad.
+- Capacidad para tomar decisiones y resolver problemas.
+- Actitud positiva.
+- Capacidad de comunicación con personas de distintas edades.
+- Capacidad para obtener y procesar e interpretar la información.
+- Capacidad para analizar datos.
+- Conocimiento técnico.
+- Creatividad.
+- Ganas de aprender.
+- Adaptación a diferentes ambientes.
+- Motivación.
+- Autoaprendizaje.
+
+resumen para trabajo practico.
+Idiomas:
+Españo (nativo)
+lectura %100 / %100 escritura 
+Ingles
+lectura %40 / escritura %20
+TODA ESTE ARCHIVO SOLO ES A MODO DE EJEMPLO PARA VER QUE TAL FUNCIONA EL BENDITO GIT, CON EL QUE ESTOY TENIENDO MILES DE PROBLEMAS.
